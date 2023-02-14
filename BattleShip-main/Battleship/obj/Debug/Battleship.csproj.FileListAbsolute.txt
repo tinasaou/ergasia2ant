@@ -1,0 +1,16 @@
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\bin\Debug\Battleship.exe.config
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\bin\Debug\Battleship.exe
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\bin\Debug\Battleship.pdb
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\bin\Debug\BattleShipLibrary.dll
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\bin\Debug\BattleShipLibrary.pdb
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.Form1.resources
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.Form2.resources
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.Form3.resources
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.Properties.Resources.resources
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.csproj.CopyComplete
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.exe
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\obj\Debug\Battleship.pdb

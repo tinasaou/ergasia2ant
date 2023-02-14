@@ -1,0 +1,6 @@
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\BattleShipLibrary\bin\Debug\BattleShipLibrary.dll
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\BattleShipLibrary\bin\Debug\BattleShipLibrary.pdb
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\BattleShipLibrary\obj\Debug\BattleShipLibrary.csproj.AssemblyReference.cache
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\BattleShipLibrary\obj\Debug\BattleShipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\BattleShipLibrary\obj\Debug\BattleShipLibrary.dll
+C:\Users\tsaouach\Downloads\BattleShip-main\BattleShip-main\Battleship\BattleShipLibrary\obj\Debug\BattleShipLibrary.pdb
